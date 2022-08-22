@@ -8,8 +8,8 @@
         if(x%i==0)
             count++;
     if(count==2)
-        printf(" %d is a even number ",x);
+        printf(" %d is a prime number ",x);
     else
-        printf(" %d is not a even number ",x);      
+        printf(" %d is not a prime number ",x);      
         return 0;      
  }
